@@ -1,49 +1,36 @@
-# Hi, I'm Peter Oluoch 👋
+# 👋 Hi there, I'm Peter Oluoch!
 
-![Welcome Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile)
+Welcome to my GitHub profile! I'm a passionate developer who enjoys building innovative solutions and contributing to the open-source community.
 
-Welcome to my GitHub profile! Here's where you can find information about my work, projects, and how to connect with me.
+## 🚀 About Me
+- 🔭 I’m currently working on: [Project A](https://github.com/peteroluoch/project-a) and [Project B](https://github.com/peteroluoch/project-b)
+- 🌱 I’m currently learning: [New Technology or Framework] (e.g., Rust, Kubernetes)
+- 💬 Ask me about: Web Development, Backend Systems, or Open Source.
+- ⚡ Fun fact: I love [something personal, e.g., solving puzzles or hiking!]
 
----
+## 🛠️ Skills and Tools
+Here are some of the technologies and tools I work with:
+- **Languages**: [JavaScript, Python, C++, etc.]
+- **Frameworks**: [React, Node.js, etc.]
+- **Tools**: [Git, Docker, VS Code, etc.]
+- **Interests**: [AI, Machine Learning, Cloud Computing, etc.]
 
-## 🚀 Projects under [My Company](https://mycompany.com)
-- [**Project A**](https://github.com/mycompany/project-a): A brief description of Project A.
-- [**Project B**](https://github.com/mycompany/project-b): A brief description of Project B.
-- [**Project C**](https://github.com/mycompany/project-c): A brief description of Project C.
+## 📂 Featured Projects
+Here are some of my favorite projects:
+- 🌟 [Project A](https://github.com/peteroluoch/project-a): Brief description of the project.
+- 🌟 [Project B](https://github.com/peteroluoch/project-b): Brief description of the project.
 
----
-
-## 🌐 Website
-Check out my personal website: [peteroluoch.dev](https://peteroluoch.dev)
-
----
+Check out more of my [repositories](https://github.com/peteroluoch?tab=repositories)!
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=peteroluoch&show_icons=true&theme=radical&count_private=true)
+![Peter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=peteroluoch&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peteroluoch&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📫 Let’s Connect
+- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+- Email: [Your Email Address](mailto:your_email@example.com)
+- Website: [Your Personal Website](https://your-website.com)
 
 ---
-
-## 🛠️ Technologies & Tools
-- **Programming Languages**: Python, JavaScript, TypeScript
-- **Frameworks**: React, Node.js, Django
-- **Tools**: Git, Docker, Kubernetes
-
----
-
-## 🤝 Open Source Contributions
-- [Open Source Project A](https://github.com/example/project-a)
-- [Open Source Project B](https://github.com/example/project-b)
-
----
-
-## 🎉 Fun Fact
-- I love solving puzzles and coding challenges!
-
----
-
-## 📢 Let's Collaborate!
-I'm always open to collaboration on exciting projects. Feel free to [reach out](mailto:peteroluoch@example.com)!
-
----
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=peteroluoch.peteroluoch)
+*Thanks for visiting! Feel free to explore my work and connect with me.*
