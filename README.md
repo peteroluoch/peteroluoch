@@ -42,7 +42,7 @@ Check out my personal website: [peteroluoch.dev](https://peteroluoch.dev)
 ---
 
 ## 📢 Let's Collaborate!
-I'm always open to collaboration on exciting projects. Feel free to [reach out](mailto:peteroluoch@example.com)!
+I'm always open to collaboration on exciting projects. Feel free to [reach out](mailto:petersoluochs@gmail.com)!
 
 ---
 
