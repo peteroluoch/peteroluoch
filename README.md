@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Peter Oluoch 👋
 
-<!--
-**peteroluoch/peteroluoch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here's where you can find information about my work, projects, and how to connect with me.
 
-Here are some ideas to get you started:
+## 🚀 Projects under [My Company](https://mycompany.com)
+- [**Project A**](https://github.com/mycompany/project-a): A brief description of Project A.
+- [**Project B**](https://github.com/mycompany/project-b): A brief description of Project B.
+- [**Project C**](https://github.com/mycompany/project-c): A brief description of Project C.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Website
+Check out my personal website: [peteroluoch.dev](https://peteroluoch.dev)
+
+## 📫 Connect with Me
+- [LinkedIn](https://linkedin.com/in/peteroluoch)
+- [Twitter](https://twitter.com/peteroluoch)
+- [Email Me](mailto:peteroluoch@example.com)
