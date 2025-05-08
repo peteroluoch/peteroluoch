@@ -19,7 +19,7 @@ Check out my personal website: [peteroluoch.dev](https://peteroluoch.dev)
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=peteroluoch&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=peteroluoch&show_icons=true&theme=radical&count_private=true)
 
 ---
 
@@ -42,7 +42,7 @@ Check out my personal website: [peteroluoch.dev](https://peteroluoch.dev)
 ---
 
 ## 📢 Let's Collaborate!
-I'm always open to collaboration on exciting projects. Feel free to [reach out](mailto:petersoluochs@gmail.com)!
+I'm always open to collaboration on exciting projects. Feel free to [reach out](mailto:peteroluoch@example.com)!
 
 ---
 
