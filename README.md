@@ -8,13 +8,13 @@ Welcome to my GitHub. I’m a surgical full-stack engineer who builds scalable, 
 AI-powered code injector & refactor engine — model fallback, live logs, and dashboard.
 
 🌍 BizGen (Private, demo available on request)
-Multilingual AI assistant that generates business ideas in Swahili, Sheng, and English — locally tailored, voice-ready, GPT-powered.
+- Multilingual AI assistant that generates business ideas in Swahili, Sheng, and English — locally tailored, voice-ready, GPT-powered.
 
 🧠 AutoIntent Module (CLI-based AI Interpreter)
-Built to parse user intent and restructure commands using AI. Being wired into CodeCrusher.
+- Built to parse user intent and restructure commands using AI. Being wired into CodeCrusher.
 
 🏷️ Enterprise QR AI Ad Generator (Internal Tool)
-Auto-generates multilingual ads using AI fallback logic and live diagnostics.
+- Auto-generates multilingual ads using AI fallback logic and live diagnostics.
 
 ## 🛠️ Skills & Tools I Use Constantly
 - Languages: Python, JavaScript, Dart, TypeScript, Solidity
@@ -48,7 +48,7 @@ Auto-generates multilingual ads using AI fallback logic and live diagnostics.
 
 🧠 AutoIntent (Internal Module) - Demo Available
 
-AI-based CLI interpreter wired into CodeCrusher
+- AI-based CLI interpreter wired into CodeCrusher
 
 - Decodes intent from messy CLI commands
 
