@@ -2,7 +2,7 @@
 
 Welcome to my GitHub. I’m a surgical full-stack engineer who builds scalable, high-performance systems at the intersection of AI, Web, and Blockchain. From AI injectors like CodeCrusher, to multilingual bots in BizGen, I architect tools that serve real needs — fast, clean, and future-proof.
 
-## 🚀 About Me & What I'm Building Now
+## What I'm Building Now
 
 🧠 CodeCrusher
 AI-powered code injector & refactor engine — model fallback, live logs, and dashboard.
