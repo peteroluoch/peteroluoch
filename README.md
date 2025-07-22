@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Peter Oluoch - Fullstack Engineer
+# 👋 Hi there, I'm Peter, a Fullstack Engineer
 
 Welcome to my GitHub. I’m a surgical full-stack engineer who builds scalable, high-performance systems at the intersection of AI, Web, and Blockchain. From AI injectors like CodeCrusher, to multilingual bots in BizGen, I architect tools that serve real needs — fast, clean, and future-proof.
 
@@ -17,12 +17,12 @@ Built to parse user intent and restructure commands using AI. Being wired into C
 Auto-generates multilingual ads using AI fallback logic and live diagnostics.
 
 ## 🛠️ Skills & Tools I Use Constantly
-Languages: Python, JavaScript, Dart, TypeScript, Solidity
-Frameworks: Django, React, Flutter, FastAPI, Node.js
-AI Stack: GPT-4 Turbo, Mistral, LLaMA, LangChain, Hugging Face
-Infra: Docker, Redis, PostgreSQL, SQLite, Firebase
-Other: Stripe CLI, GitHub Actions, WebSockets, TTS/STT, SharedPreferences
-Focus Areas: AI Engineering • Multilingual Bots • Blockchain Systems • Platform Architectures
+- Languages: Python, JavaScript, Dart, TypeScript, Solidity
+- Frameworks: Django, React, Flutter, FastAPI, Node.js
+- AI Stack: GPT-4 Turbo, Mistral, LLaMA, LangChain, Hugging Face
+- Infra: Docker, Redis, PostgreSQL, SQLite, Firebase
+- Other: Stripe CLI, GitHub Actions, WebSockets, TTS/STT, SharedPreferences
+- Focus Areas: AI Engineering • Multilingual Bots • Blockchain Systems • Platform Architectures
 
 ## 📂 Featured Favourite Projects
 
@@ -52,9 +52,9 @@ AI-based CLI interpreter wired into CodeCrusher
 
 - Decodes intent from messy CLI commands
 
-- Works as standalone tool or plugin
+- Works as a standalone tool or plugin
 
-- Optimized for precision prompt shaping
+- Optimised for precision prompt shaping
 
 🏷️ AI Ad Generator (Enterprise Tool)  
 
