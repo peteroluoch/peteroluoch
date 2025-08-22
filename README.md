@@ -5,15 +5,15 @@ Welcome to my GitHub. I’m a surgical full-stack engineer who builds scalable, 
 ## What I'm Building Now
 
 🧠 CodeCrusher
-AI-powered code injector & refactor engine — model fallback, live logs, and dashboard.
+AI-powered code injector & refactor engine — model fallback, live logs, and dashboard (Private - demo available on request).
 
-🌍 BizGen (Private, demo available on request)
-- Multilingual AI assistant that generates business ideas in Swahili, Sheng, and English — locally tailored, voice-ready, GPT-powered.
+🌍 BizGen 
+- Multilingual AI assistant that generates business ideas in Swahili, Sheng, and English — locally tailored, voice-ready, GPT-powered (Private - demo available on request).
 
 🧠 AutoIntent Module (CLI-based AI Interpreter)
-- Built to parse user intent and restructure commands using AI. Being wired into CodeCrusher.
+- Built to parse user intent and restructure commands using AI. Being wired into CodeCrusher (Private - demo available on request).
 
-🏷️ Enterprise QR AI Ad Generator (Internal Tool)
+🏷️ Enterprise QR & AI Ad Generator (Internal Tool)
 - Auto-generates multilingual ads using AI fallback logic and live diagnostics.
 
 ## 🛠️ Skills & Tools I Use Constantly
