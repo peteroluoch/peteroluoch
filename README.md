@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Peter, a Fullstack Engineer
+# 👋 Hi there, I'm Peter, a Fullstack Engineer & AI Architect
 
 Welcome to my GitHub. I’m a surgical full-stack engineer who builds scalable, high-performance systems at the intersection of AI, Web, and Blockchain. From AI injectors like CodeCrusher, to multilingual bots in BizGen, I architect tools that serve real needs. Fast, clean, and future-proof.
 
