@@ -92,3 +92,8 @@ Go
 JavaScript  
 TypeScript  
 Dart
+
+# Certifications
+
+Google Data Analytics
+IBM Data Science Professional Certificate
