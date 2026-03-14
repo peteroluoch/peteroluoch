@@ -20,7 +20,7 @@ Key areas explored:
 - real-time logs via WebSockets
 
 Repository:  
-https://github.com/YOUR_USERNAME/codecrusher-ai
+https://github.com/peteroluoch/codecrusher-ai
 
 ---
 
@@ -36,7 +36,7 @@ Features include:
 - offline cache support
 
 Repository:  
-https://github.com/YOUR_USERNAME/bizgen-ai
+https://github.com/peteroluoch/bizgen-ai
 
 ---
 
@@ -71,13 +71,13 @@ Key elements:
 Some repositories focus on experimentation and architecture exploration.
 
 - **AI Systems Lab**  
-  https://github.com/YOUR_USERNAME/ai-systems-lab
+ https://github.com/peteroluoch/ai-systems-lab
 
 - **Production API Template (FastAPI)**  
-  https://github.com/YOUR_USERNAME/production-api-template
+  https://github.com/peteroluoch/production-api-template
 
 - **Developer Automation Tools**  
-  https://github.com/YOUR_USERNAME/dev-automation-tools
+ https://github.com/peteroluoch/dev-automation-tools
 
 These repositories contain experiments, backend templates, and automation tools used to explore AI systems and developer productivity workflows.
 
