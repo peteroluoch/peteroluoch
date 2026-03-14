@@ -95,5 +95,5 @@ Dart
 
 # Certifications
 
-Google Data Analytics
+Google Data Analytics | 
 IBM Data Science Professional Certificate
