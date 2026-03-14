@@ -74,4 +74,9 @@ Docker, Redis, PostgreSQL, Firebase, GitHub Actions
 
 Many projects here are private due to client work or experimental AI tooling.
 
-If you're interested in **CodeCrusher, BizGen, or other systems**, demos or walkthroughs can be shared on request.
+If you're interested in **CodeCrusher, BizGen, TendaNow or other systems**, demos or walkthroughs can be shared on request.
+
+## Open to Collaboration
+
+Interested in backend systems, AI infrastructure, and automation tools.
+Always happy to discuss interesting engineering problems.
