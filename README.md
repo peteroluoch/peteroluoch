@@ -1,88 +1,77 @@
-# 👋 Hi there, I'm Peter, a Fullstack Engineer & AI Architect
+# Hi, I'm Peter Oluoch
 
-Welcome to my GitHub. I’m a full-stack engineer who builds scalable, high-performance systems at the intersection of AI, Web, and Blockchain. From AI injectors like CodeCrusher, to multilingual bots in BizGen, I architect tools that serve real needs. Fast, clean, and future-proof.
+Backend engineer focused on AI systems, automation, and developer tooling.
 
-## What I'm Building Now
-
-🧠 CodeCrusher
-AI-powered code injector & refactor engine — model fallback, live logs, and dashboard (Private - demo available on request).
-
-🌍 BizGen 
-- Multilingual AI assistant that generates business ideas in Swahili, Sheng, and English — locally tailored, voice-ready, GPT-powered (Private - demo available on request).
-
-🧠 AutoIntent Module (CLI-based AI Interpreter)
-- Built to parse user intent and restructure commands using AI. Being wired into CodeCrusher (Private - demo available on request).
-
-🏷️ Enterprise QR & AI Ad Generator (Internal Tool)
-- Auto-generates multilingual ads using AI fallback logic and live diagnostics.
-
-## 🛠️ Skills & Tools I Use Constantly
-- Languages: Python, JavaScript, Dart, TypeScript, Solidity
-- Frameworks: Django, React, Flutter, FastAPI, Node.js
-- AI Stack: GPT-4 Turbo, Mistral, LLaMA, LangChain, Hugging Face
-- Infra: Docker, Redis, PostgreSQL, SQLite, Firebase
-- Other: Stripe CLI, GitHub Actions, WebSockets, TTS/STT, SharedPreferences
-- Focus Areas: AI Engineering • Multilingual Bots • Blockchain Systems • Platform Architectures
-
-## 📂 Featured Favourite Projects
-
-🔥 CodeCrusher/SurgicalInject (Demo Available)
-
-- Next-gen GPT-powered code injector & refactor CLI + Dashboard
-
-- Supports model fallback (Mistral → Mixtral → LLaMA)
-
-- Real-time logs via WebSocket
-
-- CLI + web UI with diffing, prompt scoring, and recursive scan
-
-🌍 BizGen (Demo Available)
-
-- Multilingual AI business generation assistant for the African market
-
-- Onboarding bot in Swahili, Sheng, and English
-
-- GPT + Mistral + local fallback
-
-- Offline cache + voice-ready architecture
-
-🧠 AutoIntent (Internal Module) - Demo Available
-
-- AI-based CLI interpreter wired into CodeCrusher
-
-- Decodes intent from messy CLI commands
-
-- Works as a standalone tool or plugin
-
-- Optimised for precision prompt shaping
-
-🏷️ AI Ad Generator (Enterprise Tool)  
-
-- Ad content + title generation in 3 languages via AI fallback stack
-
-- Robust fallback: Mistral > Cache > Hardcoded
-
-- Admin diagnostics, health checks, real-time stats
-
-- Built-in QR deployment system
-
-Check out more of my [repositories](https://github.com/peteroluoch?tab=repositories)!
-
-⚠️ Most of my repositories are private due to client confidentiality and algorithms used.
-Live demos or access available upon request.
-
-Let’s build something bold, local-first, and AI-powered.
-
-## 📊 GitHub Stats
-![Peter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=peteroluoch&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peteroluoch&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-## 📫 Let’s Connect
-- Email: codegx7tech@gmail.com
-- Website: codegxtechnologies.org 
+Most of my work sits at the intersection of **backend engineering, LLM integration, and workflow automation**. I build practical tools that reduce repetitive work and help teams move faster.
 
 ---
-*Thanks for visiting! Feel free to explore my work and connect with me. Drop a star ⭐ on projects you like, or reach out for collaboration.
 
-— Peter Oluoch, "Engineering systems that think, speak, and scale"
+## Current Focus
+
+**CodeCrusher**  
+AI-assisted code refactoring and developer automation platform.
+
+- multi-model routing (Mistral → Mixtral → LLaMA)
+- CLI + web interface
+- prompt scoring and code diffing
+- real-time logs via WebSockets
+
+**BizGen**  
+Multilingual AI assistant for generating business ideas in African markets.
+
+- supports English, Swahili, and Sheng
+- AI suggestion engine with fallback logic
+- voice-ready architecture
+- offline cache support
+
+**AutoIntent**  
+CLI-based AI interpreter used to structure and optimize commands.
+
+- parses user intent from natural language
+- used inside CodeCrusher workflows
+- optimized for prompt shaping and automation
+
+**Enterprise QR + AI Ad Generator**
+
+Internal system used to generate multilingual marketing content.
+
+- AI fallback stack (Mistral → cache → static)
+- diagnostics and system health checks
+- QR-based campaign deployment
+
+---
+
+## Tech I Work With
+
+**Languages**
+
+Python, Go, JavaScript, TypeScript, Dart
+
+**Backend**
+
+FastAPI, Django, Node.js, REST APIs
+
+**AI / LLM Systems**
+
+LangChain, Mistral, LLaMA, OpenAI APIs, HuggingFace
+
+**Infrastructure**
+
+Docker, Redis, PostgreSQL, Firebase, GitHub Actions
+
+---
+
+## Focus Areas
+
+- AI systems and LLM orchestration  
+- Backend engineering  
+- Developer productivity tools  
+- Multilingual AI platforms  
+
+---
+
+## Note on Repositories
+
+Many projects here are private due to client work or experimental AI tooling.
+
+If you're interested in **CodeCrusher, BizGen, or other systems**, demos or walkthroughs can be shared on request.
