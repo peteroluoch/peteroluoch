@@ -1,82 +1,94 @@
-# Hi, I'm Peter Oluoch
+# Hi, I'm Peter Oluoch 👋
 
 Backend engineer focused on AI systems, automation, and developer tooling.
 
-Most of my work sits at the intersection of **backend engineering, LLM integration, and workflow automation**. I build practical tools that reduce repetitive work and help teams move faster.
+Most of my work sits at the intersection of **Python backend engineering, LLM integration, and workflow automation**. I build practical tools that reduce repetitive work and help teams move faster.
 
 ---
 
-## Current Focus
+# Current Focus
 
-**CodeCrusher**  
-AI-assisted code refactoring and developer automation platform.
+### CodeCrusher
 
-- multi-model routing (Mistral → Mixtral → LLaMA)
+AI-powered developer tooling for automated code refactoring and repository workflows.
+
+Key areas explored:
+
+- multi-model routing and fallback logic (Mistral → Mixtral → LLaMA)
 - CLI + web interface
 - prompt scoring and code diffing
 - real-time logs via WebSockets
 
-**BizGen**  
-Multilingual AI assistant for generating business ideas in African markets.
+Repository:  
+https://github.com/YOUR_USERNAME/codecrusher-ai
 
-- supports English, Swahili, and Sheng
+---
+
+### BizGen
+
+Multilingual AI platform that generates business ideas tailored for African markets.
+
+Features include:
+
+- support for English, Swahili, and Sheng
 - AI suggestion engine with fallback logic
 - voice-ready architecture
 - offline cache support
 
-**AutoIntent**  
-CLI-based AI interpreter used to structure and optimize commands.
+Repository:  
+https://github.com/YOUR_USERNAME/bizgen-ai
+
+---
+
+### AutoIntent
+
+CLI-based AI interpreter designed to restructure and optimize command workflows.
 
 - parses user intent from natural language
-- used inside CodeCrusher workflows
-- optimized for prompt shaping and automation
+- designed for developer automation workflows
+- integrated with CodeCrusher pipelines
 
-**Enterprise QR + AI Ad Generator**
+*(Internal module — demonstration available on request)*
+
+---
+
+### Enterprise QR + AI Ad Generator
 
 Internal system used to generate multilingual marketing content.
+
+Key elements:
 
 - AI fallback stack (Mistral → cache → static)
 - diagnostics and system health checks
 - QR-based campaign deployment
 
----
-
-## Tech I Work With
-
-**Languages**
-
-Python, Go, JavaScript, TypeScript, Dart
-
-**Backend**
-
-FastAPI, Django, Node.js, REST APIs
-
-**AI / LLM Systems**
-
-LangChain, Mistral, LLaMA, OpenAI APIs, HuggingFace
-
-**Infrastructure**
-
-Docker, Redis, PostgreSQL, Firebase, GitHub Actions
+*(Internal system — architecture overview available on request)*
 
 ---
 
-## Focus Areas
+# Engineering Labs
 
-- AI systems and LLM orchestration  
-- Backend engineering  
-- Developer productivity tools  
-- Multilingual AI platforms  
+Some repositories focus on experimentation and architecture exploration.
+
+- **AI Systems Lab**  
+  https://github.com/YOUR_USERNAME/ai-systems-lab
+
+- **Production API Template (FastAPI)**  
+  https://github.com/YOUR_USERNAME/production-api-template
+
+- **Developer Automation Tools**  
+  https://github.com/YOUR_USERNAME/dev-automation-tools
+
+These repositories contain experiments, backend templates, and automation tools used to explore AI systems and developer productivity workflows.
 
 ---
 
-## Note on Repositories
+# Tech I Work With
 
-Many projects here are private due to client work or experimental AI tooling.
+### Languages
 
-If you're interested in **CodeCrusher, BizGen, TendaNow or other systems**, demos or walkthroughs can be shared on request.
-
-## Open to Collaboration
-
-Interested in backend systems, AI infrastructure, and automation tools.
-Always happy to discuss interesting engineering problems.
+Python  
+Go  
+JavaScript  
+TypeScript  
+Dart
