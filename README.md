@@ -2,7 +2,7 @@
 
 Backend engineer focused on AI systems, automation, and developer tooling.
 
-Most of my work sits at the intersection of **Python backend engineering, LLM integration, and workflow automation**. I build practical tools that reduce repetitive work and help teams move faster.
+Most of my work sits at the intersection of **Python backend engineering, LLM integration, and workflow automation**. I build practical tools that enhance productivty, reduce repetitive work and help teams move faster.
 
 ---
 
