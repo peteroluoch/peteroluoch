@@ -62,4 +62,4 @@ System for generating multilingual marketing content with AI fallback logic and 
 
 ## Stack
 
-Python · Go · JavaScript · TypeScript · Dart
+Python · FastAPI· Django · TypeScript · Dart . React . Tailwind . LLMs . Docker
