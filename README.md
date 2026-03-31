@@ -1,4 +1,4 @@
-# Peter Oluoch
+# Peter O. Oluoch
 
 AI Systems Architect | Backend Engineer
 
