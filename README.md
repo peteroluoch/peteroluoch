@@ -7,13 +7,13 @@ Designing production-grade systems under AI uncertainty:
 - failure modes
 - system reliability
 
-Author of *Engineering in the Age of AI*
+Author of *Engineering in the Age of AI* and *AI for Young Thinkers*
 
 Technical sampler:  
 https://github.com/peteroluoch/engineering-in-the-age-of-ai-sampler
 
 Full book:  
-https://lnkd.in/dW7FSkvP
+https://petersolver.gumroad.com/l/ibmrnv
 
 ---
 
