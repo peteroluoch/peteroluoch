@@ -66,8 +66,8 @@ Revenue tracking intelligence system
 - https://github.com/peteroluoch/production-api-template  
 - https://github.com/peteroluoch/dev-automation-tools  
 
----
+--- 
 
 ## Stack
 
-Python · FastAPI· Django · TypeScript · Dart . React . Tailwind . LLMs . Docker
+Python · FastAPI· Django · TypeScript · Dart . React . Tailwind . LLMs . Docker . langChain . Redis
