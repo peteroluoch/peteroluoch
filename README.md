@@ -8,8 +8,8 @@ Designing production-grade systems under AI uncertainty:
 - system reliability
 
 ## Author 
-*Engineering in the Age of AI* 
-*AI for Young Thinkers*
+- Engineering in the Age of AI
+- AI for Young Thinkers
 
 Technical sampler:  
 https://github.com/peteroluoch/engineering-in-the-age-of-ai-sampler
