@@ -49,8 +49,14 @@ https://github.com/peteroluoch/bizgen-ai
 ### AutoIntent
 CLI-based AI interpreter for structuring and optimising command workflows.
 
+### TendaNow
+AI goal accountability partner and Coach
+
 ### Enterprise QR + AI Ad Generator
 System for generating multilingual marketing content with AI fallback logic and diagnostics.
+
+### NDII (National Digital Intelligence Infrastructure)
+Revenue tracking intelligence system
 
 ---
 
