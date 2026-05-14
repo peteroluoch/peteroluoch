@@ -13,7 +13,7 @@ Technical sampler:
 https://github.com/peteroluoch/engineering-in-the-age-of-ai-sampler
 
 Full book:  
-https://petersolver.gumroad.com/l/ibmrnv
+https://lnkd.in/dW7FSkvP
 
 ---
 
