@@ -1,6 +1,6 @@
 # Peter O. Oluoch
 
-AI Systems Architect | Backend Engineer
+Backend Engineer | AI Systems Architect 
 
 Designing production-grade systems under AI uncertainty:
 - orchestration
